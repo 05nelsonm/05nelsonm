@@ -16,7 +16,7 @@ Kotlin Multiplatform dev
  - [kmp-file][url-kmp-file]
  - [kmp-process][url-kmp-process]
  - [kmp-tor][url-kmp-tor]
-     - [kmp-tor-core][url-kmp-tor-core]
+     - [kmp-tor-common][url-kmp-tor-common]
      - [kmp-tor-resource][url-kmp-tor-resource]
 
 ### Gradle Plugins I maintain:
@@ -38,7 +38,7 @@ Kotlin Multiplatform dev
 [url-kmp-file]: https://github.com/05nelsonm/kmp-file
 [url-kmp-process]: https://github.com/05nelsonm/kmp-process
 [url-kmp-tor]: https://github.com/05nelsonm/kmp-tor
-[url-kmp-tor-core]: https://github.com/05nelsonm/kmp-tor-core
+[url-kmp-tor-common]: https://github.com/05nelsonm/kmp-tor-common
 [url-kmp-tor-resource]: https://github.com/05nelsonm/kmp-tor-resource
 
 <!-- gradle plugins -->
