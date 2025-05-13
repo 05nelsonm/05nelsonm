@@ -9,7 +9,7 @@ Kotlin Multiplatform dev
  - [KotlinCrypto][url-kotlincrypto]
  - [toxicity-io][url-toxicity-io]
 
-### Kotlin Multiplatform Libraries I maintain:
+### Kotlin Multiplatform Libraries:
 
  - [encoding][url-encoding]
  - [immutable][url-immutable]
@@ -20,11 +20,12 @@ Kotlin Multiplatform dev
      - [kmp-tor-resource][url-kmp-tor-resource]
      - [kmp-tor-samples][url-kmp-tor-samples]
 
-### Gradle Plugins I maintain:
+### Gradle Plugins:
 
+ - [gradle-filterjar-plugin][url-gradle-filterjar-plugin]
  - [gradle-kmp-configuration-plugin][url-gradle-kmp-configuration-plugin]
 
-### Docker Images I maintain:
+### Docker:
 
  - [build-env][url-build-env]
 
@@ -44,6 +45,7 @@ Kotlin Multiplatform dev
 [url-kmp-tor-samples]: https://github.com/05nelsonm/kmp-tor-samples
 
 <!-- gradle plugins -->
+[url-gradle-filterjar-plugin]: https://github.com/05nelsonm/gradle-filterjar-plugin
 [url-gradle-kmp-configuration-plugin]: https://github.com/05nelsonm/gradle-kmp-configuration-plugin
 
 <!-- docker images -->
